@@ -307,6 +307,7 @@ class WAD_Discount {
             "order-subtotal" => $text,
             "order-item-count" => $text,
             "order-products" => $products_list,
+			"order-products-count" => $text,
         );
 
         if (isset($values_match[$condition]))
@@ -338,6 +339,7 @@ class WAD_Discount {
             "order-subtotal" => $number_operators_select,
             "order-item-count" => $number_operators_select,
             "order-products" => $arrays_operators_select,
+			"order-products-count" => $number_operators_select,
         );
 
         if (isset($operators_match[$condition]))
@@ -833,6 +835,7 @@ class WAD_Discount {
             "order-subtotal" => __("If Order subtotal", "wad"),
             "order-item-count" => __("If Order items count", "wad"),
             "order-products" => __("If Order products", "wad"),
+			"order-products-count" => __("If number of matching products", "wad"),
         );
     }
 
