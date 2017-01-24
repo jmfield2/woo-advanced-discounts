@@ -1,0 +1,522 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WAD\n"
+"POT-Creation-Date: 2016-05-20 16:51+0100\n"
+"PO-Revision-Date: 2016-05-20 16:51+0100\n"
+"Last-Translator: ORION TEAM <support@orionorigin.com>\n"
+"Language-Team: ORION TEAM <support@orionorigin.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-wad-admin.php:111
+msgid "Products Lists"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:112
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:125
+msgid "Woocommerce All Discounts Settings"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:137
+msgid "Cache discounts"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:141
+msgid ""
+"Wether or not to store the discounts in the cache to increase the pages load "
+"speed. Cache is valid for 12hours"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:154
+msgid "Save"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:179
+msgid "Welcome to WooCommerce All Discounts"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:180
+#, php-format
+msgid ""
+"Thanks for installing! WooCommerce All Discounts %s is more powerful, stable "
+"and secure than ever before. We hope you enjoy using it."
+msgstr ""
+
+#: ../admin/class-wad-admin.php:188
+msgid "User Manual"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:193
+msgid "Getting Started"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:194
+msgid "Changelog"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:195
+msgid "Follow Us"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:205
+msgid "How to install the demo package?"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:213
+msgid "How to set the basic settings?"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:221
+msgid "How to create a customizable product?"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:229
+msgid "How to manage your designs templates?"
+msgstr ""
+
+#: ../admin/class-wad-admin.php:240
+msgid "Unable to open file!"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:44 ../includes/class-wad-discount.php:45
+#: ../includes/class-wad-discount.php:1198
+msgid "Discount"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:46 ../includes/class-wad-discount.php:47
+#: ../includes/class-wad-discount.php:49
+msgid "New discount"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:48
+msgid "Edit discount"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:50
+msgid "View discount"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:52
+msgid "No discount found"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:53
+msgid "No discount in the trash"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:54
+msgid "Discounts"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:87
+msgid "Discount settings"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:109
+msgid "Start date"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:114
+msgid ""
+"Date from which the discount is applied.<br>Format: <strong>YYYY-MM-DD</"
+"strong>."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:119
+msgid "End date"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:124
+msgid "Date when the discount ends.<br>Format: <strong>YYYY-MM-DD</strong>."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:130
+msgid "Action"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:134
+msgid "Type of of discount to apply."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:142
+msgid "Products list"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:148
+msgid "List of products the selected action applies on"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:154
+msgid "Percentage / Fixed amount"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:160
+msgid "Percentage or fixed amount to apply."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:165
+msgid "Cumulable ?"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:169
+msgid ""
+"Wether or not the discount can be applied if the condition is fullfilled "
+"more than once."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:177
+msgid "Rules groups relationship"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:180
+msgid ""
+"AND: All groups rules must be verified to have the discount action applied."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:180
+msgid ""
+"OR: AT least one group rules must be verified to have the discount action "
+"applied."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:189
+msgid "Rules"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:190
+msgid ""
+"Allows you to define which rules should be checked in order to apply the "
+"discount. Not mandatory."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:248
+msgid "and"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:328
+msgid "is less than"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:329
+msgid "is less or equal to"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:330
+msgid "equals"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:331
+msgid "is more than"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:332
+msgid "is more or equal to"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:333
+msgid "is a multiple of"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:405
+msgid "Add rules group"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:585
+#: ../includes/class-wad-discount.php:615
+msgid "Total cart discount"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:617
+msgid ""
+"Only includes the discounts applied on the order itself, not on the "
+"individual products."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:905
+msgid "If Customer role"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:906
+msgid "If Customer"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:907
+msgid "If Previous orders count"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:908
+msgid "If Order subtotal"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:909
+msgid "If Order items count"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:910
+msgid "If Order products"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:916
+msgid "Percentage off product price"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:917
+msgid "Fixed amount off product price"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:918
+msgid "Percentage off order subtotal"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:919
+msgid "Fixed amount off order subtotal"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1079
+msgid "Start Date"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1080
+msgid "End Date"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1081
+msgid "Active"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1126
+#: ../includes/class-wad-discount.php:1135
+msgid "Quantity Based Pricing"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1147
+msgid "Enabled"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1150
+msgid "Enable/Disable this feature"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1160
+msgid "Discount type"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1164
+msgid "Percentage"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1165
+msgid "Fixed amount"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1168
+msgid "Apply a percentage or a fixed amount discount"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1172
+msgid "Rules type"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1176
+msgid "Intervals"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1177
+msgid "Steps"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1180
+msgid ""
+"If Intervals, the intervals rules will be used.<br>If Steps, the steps rules "
+"will be used."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1184
+#: ../includes/class-wad-discount.php:1335
+msgid "Min"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1191
+#: ../includes/class-wad-discount.php:1336
+msgid "Max"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1206
+msgid "Intervals rules"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1207
+msgid ""
+"If quantity ordered between Min and Max, then the discount specified will be "
+"applied. <br>Leave Min or Max empty for any value (joker)."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1215
+msgid "Every X items"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1222
+msgid "Steps Rules"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1223
+msgid ""
+"If quantity ordered is a multiple of the step, then the discount specified "
+"will be applied."
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1264
+msgid "Quantity based pricing table"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1302
+msgid "Every multiple of"
+msgstr ""
+
+#: ../includes/class-wad-discount.php:1303
+#: ../includes/class-wad-discount.php:1337
+msgid "Unit Price"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:33
+#: ../includes/class-wad-products-list.php:34
+msgid "List"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:35
+#: ../includes/class-wad-products-list.php:36
+#: ../includes/class-wad-products-list.php:38
+msgid "New list"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:37
+msgid "Edit list"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:39
+msgid "View list"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:41
+msgid "No list found"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:42
+msgid "No list in the trash"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:43
+msgid "Lists"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:76
+msgid "List settings"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:95
+msgid "Extraction type"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:100
+msgid ""
+"How would you like to specify which products you want to include in the list?"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:119
+msgid "Products IDs"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:120
+msgid "Values separated by commas"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:129
+msgid "Author"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:130
+msgid "Retrieves only the elements created by the specified authors"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:140
+msgid "Exclude"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:141
+msgid ""
+"Excludes the following elements IDs from the results (values separated by "
+"commas)"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:150
+msgid "Metas relationship"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:163
+msgid "Key"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:170
+#: ../includes/class-wad-products-list.php:258
+msgid "Operator"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:171
+msgid ""
+"If the operator  is 'IN', 'NOT IN', 'BETWEEN', or 'NOT BETWEEN', make sure "
+"the different values are separated by a comma"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:195
+#: ../includes/class-wad-products-list.php:269
+msgid "Value"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:202
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:227
+msgid "Metas"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:228
+msgid "Filter by metas"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:237
+msgid "Taxonomies relationship"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:250
+msgid "Taxonomy"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:277
+msgid "Taxonomies"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:278
+msgid "Filter by taxonomies (Categories, Tags, Attributes)"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:304
+msgid "Evaluate"
+msgstr ""
+
+#: ../includes/class-wad-products-list.php:403
+msgid " result(s) found"
+msgstr ""
+
+#: ../includes/utils.php:482
+msgid "Add"
+msgstr ""
